@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Flower
-  m_Shader: {fileID: -6465566751694194690, guid: d1984230fbe98be45bdc28ba1554914a, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 359ab2c5231dfda4fba5958420d47b43, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,7 +19,7 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_1b5f98c264fe44a2b58148c7bba7cce3:
+    - Texture2D_3bcd247387c048bb9b5782940426d108:
         m_Texture: {fileID: 2800000, guid: 5733619f617fd954cac22d3d11fd1b93, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -80,9 +80,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_3628ad7b98aa49cabedaf53dcacf93c5: 1
-    - Vector1_beb8a574ca304549938cd5b06d6bae1d: 2.09
-    - Vector1_daa8bf34acca48d6ab093a00dffc1200: 0.2
+    - Vector1_2d07b1722dee470c9375b9bae976f8ea: 2.36
+    - Vector1_5128347ade4e4da69cfc733204f112e8: 1.21
+    - Vector1_972a8bd94ad042b796be21729c062848: 0.78
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -110,14 +110,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Vector2_7b1b9ba495bd4d569646d6c3c0fbd621: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_e3efcc91dade49b5a68a280f49a36661: {r: 0.3, g: 0, b: 0, a: 0}
+    - Vector2_262ee9a028014ebe844ae5de8c1c7fe4: {r: 0.3, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &2812716032414720108
+--- !u!114 &6901245189486832678
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
