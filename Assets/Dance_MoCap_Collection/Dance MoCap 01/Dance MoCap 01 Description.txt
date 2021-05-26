@@ -1,0 +1,25 @@
+Dance MoCap 01
+
+This package features a collection of 10 fbx animations for a bipedal humanoid character performing various dance moves.
+
+Slow Rhythm Dance 01: A series of robotic dance moves set to a slow tempo.
+
+Slow Rhythm Dance 02: A series of fluid dance moves set to a slow tempo.
+
+Mid Rhythm Dance 01: A series of dance moves set to a medium tempo.
+
+Mid Rhythm Dance 02: An alternate series of dance moves set to a medium tempo.
+
+Mid Rhythm Dance 03: A series of dance moves with rapid arm and hand movements set to a medium tempo.
+
+High Rhythm Dance 01: A series of dance moves set to a quick tempo.
+
+High Rhythm Dance 02: A series of rapid dance moves set to a quick tempo.
+
+High Rhythm Dance 03: A series of dance moves with a great deal of movement and some breakdancing set to a quick tempo.
+
+High Rhythm Dance 04: A series of rapid dance moves culminating in a pirouette.
+
+Moonwalk Dance 01: Moonwalking first backwards then in a sideways spin.
+
+If you have any questions or need customer support feel free to contact us at support@morromotion.com

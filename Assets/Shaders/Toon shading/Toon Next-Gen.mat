@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Toon Next-Gen
   m_Shader: {fileID: -6465566751694194690, guid: fa9c0cf1ef27f4549bd223039b392b38, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: BOOLEAN_AC192972DDDD453D8A582C56A7390E3C_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -80,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - BOOLEAN_AC192972DDDD453D8A582C56A7390E3C: 0
+    - BOOLEAN_AC192972DDDD453D8A582C56A7390E3C: 1
     - Vector1_8bf133857c7b4b29871a63194b9dd8ca: 1
     - _AlphaClip: 0
     - _Blend: 0

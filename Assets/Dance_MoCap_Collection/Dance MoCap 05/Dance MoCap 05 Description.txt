@@ -1,0 +1,26 @@
+Dance Package 05
+
+This package features a collection of 10 fbx animations for a bipedal humanoid character performing various dance moves.
+
+Slow Rhythm Dance 11: A series of dance moves to a slow tempo starting low to the ground featuring a variety of leg movements.
+
+Slow Rhythm Dance 12: A series of dance moves to a slow tempo with expressive arm and leg movements.
+
+Slow Rhythm Dance 13: A series of dance moves to a slow tempo featuring dance moves where the character is facing different directions.
+
+Slow Rhythm Dance 14: A series of dance moves to a slow tempo featuring exaggerated upper body movements.
+
+Slow Rhythm Dance 15: A series of dance moves to a slow tempo with sleek arm and hip movements.
+
+Mid Rhythm Dance 10: A series of dance moves to a medium Tempo with exaggerated arm movements covering a moderate amount of space.
+
+Mid Rhythm Dance 11: A series of dance moves to a medium tempo with a variety of arm and leg movements.
+
+Mid Rhythm Dance 12: A series of dance moves to a medium tempo with quick arm movements and multiple side to side steps. 
+
+High Rhythm Dance 13: A series of dance moves to a high tempo featuring a variety of levels including a jump.
+
+High Rhythm Dance 14: A series of dance moves to a high tempo featuring exaggerated movements through the whole body, taking place over a large area, at a variety of levels.
+
+If you have any questions feel free to contact us at support@morromotion.com
+

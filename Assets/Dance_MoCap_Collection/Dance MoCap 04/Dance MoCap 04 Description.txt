@@ -1,0 +1,25 @@
+Dance Package 04
+
+This package features a collection of 10 fbx animations for a bipedal humanoid character performing various dance moves.
+
+Short Dance 07: A short series of dance movements where the character steps over their right foot with their left and vice versa.
+
+Short Dance 08: A short series of dance movements where the character jumps takes a step to the left then jumps back to a position with their feet together then does the same to the right.
+
+Slow Rhythm Dance 08: A series of dance moves to a slow tempo in a more feminine style.
+
+Slow Rhythm Dance 09: A series of dance moves to a slow tempo covering a wide area featuring exaggerated arm movements.
+
+Slow Rhythm Dance 10: A series of dance moves to a slow tempo featuring starint from a lower position moving gradually upwards.
+
+Mid Rhythm Dance 07: A series of dance moves to a medium tempo covering a small area featuring more feminine arm movements.
+
+Mid Rhythm Dance 08: A series of dance moves to a medium tempo over a slightly wide area featuring expressive arm movements.
+
+Mid Rhythm Dance 09: A series of dance moves to a medium tempo moving from a standing position to the ground and back up to standing featuring complex arm movements.
+
+High Rhythm Dance 11: A series of dance moves to a high tempo featuring wide exaggerated arm and leg movements.
+
+High Rhythm Dance 12: A series of dance moves to a high tempo featuring rapid arm and expressive head movements.
+
+If you have any questions feel free to contact us at support@morromotion.com

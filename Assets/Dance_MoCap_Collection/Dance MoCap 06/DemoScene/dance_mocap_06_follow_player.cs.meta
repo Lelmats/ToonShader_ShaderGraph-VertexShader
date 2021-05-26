@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d9f1d6d22fb9e1b49ae6e34a5a61a64e
+timeCreated: 1504210695
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {fileID: 100146, guid: 791b3d80a7f1e254a92ff71c4da030fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+Dance MoCap 03
+
+This package features a collection of 10 fbx animations for a bipedal humanoid character performing various dance moves.
+
+Short Dance 04: A short series of jumpy dance moves. Character jumps to the left and right, walks forwards and then backwards.
+
+Short Dance 05: A short series of dance moves with an arm behind back. Character moves foward then back while waving one hand infront of its body and keeping the other behind its back.
+
+Short Dance 06: A short series of dance moves featuring rapid arm movements. Character slowly moves forward and then back while shaking arms like a wave.
+
+Slow Rhythm Dance 06: A series of dance moves to a slow tempo featuring catwalk like movements. Character uses exaggerated hip movement.
+
+Slow Rhythm Dance 07: A series of dance moves to a slow tempo featuring wavy body movements.
+
+Mid Rhythm Dance 05: A series of dance moves to a medium tempo featuring rapid arm movements and spins.
+
+Mid Rhythm Dance 06: An alternative series of dance moves to a medium tempo featuring rapid arm movements and spins. Features jazz hands.
+
+High Rhythm Dance 08: A series of dance moves to a high tempo featuring break dancing.
+
+High Rhythm Dance 09: A series of dance moves to a high tempo featuring large rapid arm movements. Character rotates fully extended arm in circle. Character also hops close to the ground and falls to the ground before jumping back to its feet. 
+
+High Rhythm Dance 10: A series of dance moves to a high tempo featuring popping and locking movements. Character uses several hand spins. Slight robotic movement.
+
+If you have any questions feel free to contact us at support@morromotion.com

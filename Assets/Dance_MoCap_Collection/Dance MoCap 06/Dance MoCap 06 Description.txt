@@ -1,0 +1,25 @@
+Dance Package 06
+
+This package features a collection of 10 fbx animations for a bipedal humanoid character performing various dance moves.
+
+Slow Rhythm Dance 16: A series of dance moves to a slow tempo where the character twists and points left and right multiple times.
+
+Slow Rhythm Dance 17: A series of dance moves to a slow tempo where the character bends and twists in a provocative pose. 
+
+Slow Rhythm Dance 18: A series of dance moves to a slow tempo with several arm extensions and retractions. 
+
+Slow Rhythm Dance 19: A series of dance moves to a slow tempo with several leg kicks, body waves and body spins.
+
+Mid Rhythm Dance 13: A series of dance moves to a medium tempo with quick arm twists and a few body spins.
+
+Mid Rhythm Dance 14: A series of dance moves to a medium tempo with various arm and leg twists and extensions. 
+
+Mid Rhythm Dance 15: A series of dance moves to a medium tempo where the character shakes its body and flips its head.
+
+High Rhythm Dance 15: A series of dance moves to a high tempo beat. Several unique movements throughout.
+
+High Rhythm Dance 16: A series of dance moves to a high tempo beat. Several different moves again. 
+
+High Rhythm Dance 17: A series of dance moves to a high tempo in a celebratory manner.
+
+If you have any questions feel free to contact us at support@morromotion.com

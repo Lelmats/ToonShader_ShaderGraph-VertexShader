@@ -1,0 +1,25 @@
+Dance MoCap 02
+
+This package features a collection of 10 fbx animations for a bipedal humanoid character performing various dance moves.
+
+Short Dance 01: A short series of dance movements where the character turns to the left and right, while rotating its arms.
+
+Short Dance 02: A short quick series of dance movements to a medium tempo.
+
+Short Dance 03: A short series of robotic dance moves. Character moves forward like a robot then glides swiftly backwards.
+
+Slow Rhythm Dance 03: A series of dance moves to a slow tempo covering a wide area.
+
+Slow Rhythm Dance 04: A series of dance moves to a slow tempo featuring heavy arm movements.
+
+Slow Rhythm Dance 05: A series of dance moves to a slow tempo featuring samba like movements.
+
+Mid Rhythm Dance 04: A series of dance moves to a medium tempo featuring crossed arms and side steps.
+
+High Rhythm Dance 05: A series of dance moves to a high tempo featuring rapid arm and leg movements.
+
+High Rhythm Dance 06: A series of dance moves to a high tempo featuring arobic like movements. Character spins body around several times and steps forward and back to the left and right. Character waves arms throughout.
+
+High Rhythm Dance 07: A series of dance moves to a high tempo featuring rapid movement ending with a slower interpretive dance.
+
+If you have any questions feel free to contact us at support@morromotion.com
