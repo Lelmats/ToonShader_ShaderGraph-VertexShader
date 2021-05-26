@@ -151,7 +151,7 @@ Finalmente, sumaremos el último multiply con el subgrafo de SideLight para así
 ![alt text]()
 
 
-Conclusion
+Conclusión
 -------------------------------------------------
 Para finalizar, podríamos decir que los resultados fueron satisfactorios, ya que, se logro crear con exito lo que se planteo, sobre todo si hablamos del agua y la vegetación ambas creadas con Vertex Shading. Los efectos logrados cumplieron su fución con éxito, todo esto creado con texturas, normal maps, modelos, etc. Representando de esta menera, de una forma realista los efectos de viento, agua, y en el caso del Toon Shading logrando crear el efecto con éxito
 
