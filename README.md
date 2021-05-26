@@ -126,6 +126,7 @@ Para el Specular, lo primero que se hizo fue unir la dirección del MainLight a 
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2020.png)
 
 **Light Atten**
+
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2021.png)
 
 El Albedo se realiza uniendo el Main Texture a un Sample Texture 2D, el cual luego se multiplicará por el nodo Albedo.
@@ -137,6 +138,7 @@ Después de esto, tomaremos el Subgrafo de Dabs y lo multiplicaremos con la sali
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2023.png)
 
 **Dabs**
+
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2024.png)
 
 Después de haber hecho todo esto, se realizó el Final Effect, el cual consta de multiplicar la última multiplicación que salió del Albedo con la última suma realizada del Ramp con la multiplicación de los Dabs con el Specular.
@@ -148,6 +150,7 @@ Finalmente, sumaremos el último multiply con el subgrafo de SideLight para así
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2026.png)
 
 **Side Light**
+
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2027.png)
 
 
