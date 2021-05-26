@@ -156,7 +156,7 @@ Finalmente, sumaremos el último multiply con el subgrafo de SideLight para así
 **Side Light**
 
 ![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2027.png)
-
+![alt text](https://github.com/Lelmats/ToonShader_ShaderGraph-VertexShader/blob/main/imagenes/Foto%2028.png)
 
 Conclusión
 -------------------------------------------------
