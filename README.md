@@ -57,6 +57,7 @@ Después de esto, el resultado de combinar los ejes pasa a un Lerp, que tiene co
 ![alt text]()
 
 **Water**
+
 ![alt text]()
 
 Para el agua se necesitarán las siguientes variables: 
