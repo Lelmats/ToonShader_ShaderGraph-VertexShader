@@ -19,6 +19,7 @@ Desarrollo
 El proyecto consta de 3 materiales principales: Flower, Water, y Toon Shader, los cuales se explicarán más a detalle a continuación.
 
 **Flower**
+
 ![alt text]()
 
 Para realizar el shader del zacate o flor, se realizaron varios pasos
